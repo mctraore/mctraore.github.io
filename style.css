@@ -21,7 +21,7 @@ footer{
   max-width: 15em;
 
 }
-.post-ttl, .post-ttl:visited {
+a:link, .post-ttl, .post-ttl:visited {
   color: #2F595C;
   text-decoration: none;
   font-family: 'DM Serif Display', serif;
